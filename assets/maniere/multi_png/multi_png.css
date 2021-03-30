@@ -1,0 +1,9 @@
+.chara_contain {
+    position: absolute;
+    width: 200px;
+    height: 200px;
+}
+
+.chara_contain .chara {
+    width: 150px;
+}

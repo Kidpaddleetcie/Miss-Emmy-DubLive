@@ -1,0 +1,49 @@
+                body {
+                    background-color: rgb(0, 26, 99) !important;
+                    color: blanchedalmond !important;
+                    margin: 0;
+                }
+                
+                .cadre {
+                    width: 100vw;
+                    height: 100vh;
+                    margin: auto auto;
+                    img {
+                        margin: auto auto;
+                        height: 50vh;
+                        position: absolute;
+                        bottom: 5vh;
+                        right: 0;
+                    }
+                }
+                
+                .carousel-indicators {
+                    top: 5vh;
+                    li {
+                        box-sizing: border-box !important;
+                        width: 7.5vw!important;
+                        height: 7.5vw !important;
+                        color: black;
+                        text-indent: 0 !important;
+                        i {
+                            width: 7.5vw !important;
+                            height: 7.5vw !important;
+                            text-align: center;
+                            font-size: 2vw;
+                            display: table-cell;
+                            vertical-align: middle;
+                        }
+                    }
+                }
+                
+                .carousel-control-prev {
+                    top: 10vh !important;
+                    width: 7.5vw!important;
+                    height: 7.5vw !important;
+                }
+                
+                .carousel-control-next {
+                    top: 10vh !important;
+                    width: 7.5vw!important;
+                    height: 7.5vw !important;
+                }
